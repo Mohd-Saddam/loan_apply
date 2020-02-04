@@ -47,18 +47,9 @@ http://127.0.0.1:5000/api/getUserLoanApply
 get result:-
 {
     "ApplyLoan": [
-        {
-			"user_name": "ABC"
-			"email": "abc@gmail.com",
-            "address": "New Dehli",
-            "curr_salary": 25500.5,
-            "occupation": "job",
-            "phone": "+91-9897551230",
-            
-        },
-		{
-			"user_name": "ABC1"
-			"email": "abc1@gmail.com",
+	{
+	   "user_name": "ABC1"
+	    "email": "abc1@gmail.com",
             "address": "New Dehli",
             "curr_salary": 20000,
             "occupation": "job",
@@ -66,5 +57,5 @@ get result:-
             
         }
     ],
-    "toltaluser": 2
+    "toltaluser": 1
 }
