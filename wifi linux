@@ -1,1 +1,3 @@
 sudo apt-get install --reinstall bcmwl-kernel-source for use this command linux wifi
+
+sudo apt-get install --reinstall bcmwl-kernel-source
